@@ -48,6 +48,17 @@ La solución implementa una secuencia de trabajo basada en **Grafcet + subrutina
 
 ---
 
+## 🎥 Video del Gemelo Digital y Studio 5000
+
+<div align="center">
+  <a href="https://youtu.be/7_3wu8qedKg">
+    <img src="https://img.youtube.com/vi/7_3wu8qedKg/hqdefault.jpg" alt="Video del gemelo digital y Studio 5000" width="800">
+  </a>
+  <p><em>Haz clic en la imagen para ver el video demostrativo del gemelo digital y la integración en Studio 5000.</em></p>
+</div>
+
+---
+
 ## 🖼️ Recursos del Proyecto
 
 <div align="center">
@@ -470,14 +481,6 @@ La validación se apoyó en dos frentes:
 | `matlab/extracted/perfil_trapezoidal_sliders.m` | Herramienta interactiva de exploración |
 | `cad/BOX_FORMING_DIGITAL_TWIN - NX-12_v0.5/` | Gemelo digital completo en Siemens NX |
 | `assets/img/` | Imágenes extraídas y renderizadas desde los PDFs del proyecto |
-
----
-
-## 🎥 Video del Gemelo Digital
-
-Video compartido para evidenciar el funcionamiento del gemelo digital y la integración con Studio 5000:
-
-**https://youtu.be/7_3wu8qedKg**
 
 ---
 
