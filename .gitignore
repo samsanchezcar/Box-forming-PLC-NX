@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# MATLAB
+*.asv
+*.autosave
+*.m~ 
+
+# NX / generated / temp
+*.log
+*.bak
+
+# Python
+__pycache__/

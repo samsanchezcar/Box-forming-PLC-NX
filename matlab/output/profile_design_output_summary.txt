@@ -1,0 +1,11 @@
+=== RESUMEN (útil para parametrizar bloques tipo MAM: Distance/Velocity/Accel) ===
+
+- Eje Y (1b)     | dL=   1.500 | T= 1.875 | a=   6.000 (a_min=   1.707) | Vmax=   0.867 | t1= 0.144 t2= 1.586
+- RotZ (1b)      | dL=  90.000 | T= 1.875 | a= 400.000 (a_min= 102.400) | Vmax=  51.542 | t1= 0.129 t2= 1.617
+
+- Eje Y (1c)     | dL=   1.500 | T= 1.875 | a=   6.000 (a_min=   1.707) | Vmax=   0.867 | t1= 0.144 t2= 1.586
+- RotX (1c)      | dL=  90.000 | T= 1.875 | a= 400.000 (a_min= 102.400) | Vmax=  51.542 | t1= 0.129 t2= 1.617
+
+- Eje Y (Home)   | dL=  -3.000 | T= 3.750 | a=   6.000 (a_min=   0.853) | Vmax=  -0.831 | t1= 0.138 t2= 3.473
+- RotX (Home)    | dL= -90.000 | T= 3.750 | a= 400.000 (a_min=  25.600) | Vmax= -24.397 | t1= 0.061 t2= 3.628
+- RotZ (Home)    | dL= -90.000 | T= 3.750 | a= 400.000 (a_min=  25.600) | Vmax= -24.397 | t1= 0.061 t2= 3.628

@@ -1,0 +1,17 @@
+=== MEJOR CONFIGURACIÓN (8 cajas/min, Tu_total=7.500 s) ===
+Reposos: inicio y mitad (sin reposo final)
+Restricción: tR_ini >= 0.400 s
+
+tR_ini = 0.400 s
+tR_mid = 0.400 s
+Tu_move = 6.700 s
+
+aY      = 1.2100 [m/s^2]
+aX=aZ   = 2.4500 [rad/s^2]
+
+--- Métricas (solo movimiento) ---
+RMS(a):   Y=0.9822 | X=1.4565 | Z=1.4565
+RMS combo = 2.2821
+Vmax:     Y=1.3356 m/s | X=1.4504 rad/s | Z=1.4504 rad/s
+a_min:    Y=1.0693 m/s^2 | X=2.2395 rad/s^2 | Z=2.2395 rad/s^2
+J = 0.658653
